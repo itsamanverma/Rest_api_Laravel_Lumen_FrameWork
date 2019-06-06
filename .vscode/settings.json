@@ -1,0 +1,25 @@
+{
+    "cSpell.words": [
+        "Authenticatable",
+        "Authorizable",
+        "Cond",
+        "WEBHOOK",
+        "autoload",
+        "autoloader",
+        "classmap",
+        "fzaninotto",
+        "gmail",
+        "hotelcode",
+        "hotelid",
+        "hotelname",
+        "itemname",
+        "itemprice",
+        "lastname",
+        "lumendb",
+        "phpdotenv",
+        "phpunit",
+        "tymon",
+        "verifytoken",
+        "vlucas"
+    ]
+}
